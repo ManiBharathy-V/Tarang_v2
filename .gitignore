@@ -1,0 +1,38 @@
+# .gitignore for Flask app
+# Compiled Python files
+*.pyc
+__pycache__/
+# Environment variables file
+.env
+# Dependency directories
+venv/
+env/
+Lib/
+Scripts/
+*.cfg
+# Log files
+logs/
+*.log
+# IDE-specific files
+.idea/
+.vscode/
+
+
+# Node.js dependencies
+node_modules/
+# Built files
+/build
+/.next
+/dist
+
+# Logs
+*.log
+
+# Environment variables
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# npm lock file
+package-lock.json

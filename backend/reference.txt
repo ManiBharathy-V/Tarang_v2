@@ -1,0 +1,8 @@
+JWT
+#refered to code
+https://www.geeksforgeeks.org/using-jwt-for-user-authentication-in-flask/
+
+https://pyjwt.readthedocs.io/en/stable/
+
+#learn the functions apis and concept
+https://flask-jwt-extended.readthedocs.io/en/stable/

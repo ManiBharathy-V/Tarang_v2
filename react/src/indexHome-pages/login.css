@@ -1,0 +1,120 @@
+#registration-card {
+    border-radius: 10px;
+    background-color: rgb(0, 0, 0);
+    height: auto;
+    width: 1150px;
+    display: flex;
+    align-items: flex-start;
+    justify-content:flex-start;
+    margin: auto;
+    font-family: sans-serif;
+    color: rgb(255, 255, 255);
+    margin-top: 5%;
+}
+
+#registartion-img-div {
+    margin: 0;
+}
+
+#registration-img {
+    height: 800px;
+    width: auto;
+    border-radius: 10px;
+}
+
+#registration-text {
+    border-radius: 10px;
+    height: 100%;         
+    width: 100%;
+    align-items: center;
+}
+
+#sign-up-div {
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    margin-top: 8%;
+    margin-bottom: 1%;
+}
+
+#sign-up {
+    margin: 0%;
+}
+
+.if-login-div {
+    margin: 0;
+    display: flex;
+    justify-content: center;
+}
+
+.if-login {
+    margin: 0%;
+    margin-bottom: 8%;
+}
+
+.log-in {
+    color: #046A38
+}
+
+.log-in:hover {
+    color: #045b31;
+}
+
+.registration-input {
+    background-color: #333;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    width: 65%;
+    margin-bottom: 5%;
+}
+
+.registration-input:hover {
+    background-color: #444;
+
+}
+
+.registration-input-div {
+    margin: 0;
+    display: flex;
+    justify-content: center;
+}
+
+.input-text-div {
+    margin: 0;
+    margin-left: 14%;
+    margin-bottom: 1%;
+}
+
+.input-text {
+    margin: 0%;
+}
+
+.terms-div {
+    margin-top: 2%;
+    margin-left: 15.5%;
+    margin-right: 15.5%;
+}
+
+#register-btn-div {
+    margin: 0;
+    display: flex;
+    justify-content: center;
+}
+
+#register-btn {
+    background-color: #046A38;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    width: 50%;
+    margin-bottom: 5%;
+}
+
+#register-btn:hover {
+    background-color: #045b31;
+}
